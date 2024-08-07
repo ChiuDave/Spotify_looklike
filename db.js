@@ -13,4 +13,4 @@ const db= knex({ // on utilise le module knex pour se connecter a la base de don
     }
 })
 
-module.exports = {db};
+module.exports = db;
